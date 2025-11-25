@@ -49,6 +49,10 @@ All modules such as Mail, Drive, Vault, and Chat will import from ShieldOS Core 
 Active development.  
 APIs and structures are subject to refinement as other ShieldOS modules evolve.
 
+### Messaging Integrations
+- [XMTP JS](https://github.com/Shield-OS-dev/xmtp-js) – used as an experimental messaging transport for ShieldOS Chat.
+
+
 ## Links
 
 Website: https://www.shieldos.xyz/  
